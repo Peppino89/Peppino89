@@ -140,7 +140,7 @@ I enjoy learning new technologies, solving real-world problems and developing so
 # 📫 Connect With Me
 
 - 💼 LinkedIn  
-  https://www.linkedin.com/in/giuseppe-giordano-dev
+  www.linkedin.com/in/giuseppegiordano89
 
 - 💻 GitHub  
   https://github.com/Peppino89
