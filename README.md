@@ -6,7 +6,92 @@ Welcome to my GitHub profile!
 
 I'm a **Full Stack Developer** passionate about building modern, scalable and maintainable web applications.
 
-My primary focus is on **Java**, **Spring Boot**, **Angular** and **React**, and I enjoy turning ideas into real software solutions while continuously improving my technical skills through hands-on projects.
+My primary focus is on **Java**, **Spring Boot**, **Angular**, **React**, **Node.js** and **Express.js**. I enjoy turning ideas into real software solutions while continuously improving my technical skills through hands-on projects and exploring modern software development best practices.
+
+---
+
+# ⭐ Featured Repositories
+
+These repositories represent my learning journey and showcase practical projects developed using different technologies, architectures and real-world application scenarios.
+
+---
+
+## ☕ Spring Boot & Angular Projects
+
+🔗 **Repository:** https://github.com/Peppino89/Angular_Springboot
+
+Collection of Full Stack applications built with **Spring Boot** and **Angular**.
+
+### Current Projects
+
+- ✅ AppTodo
+- 🚧 BarberBooking *(currently in development)*
+
+Every project includes:
+
+- 📖 Detailed documentation
+- 🏗 Project architecture
+- 🚀 Installation guide
+- 🛠 Technologies used
+- 🔮 Future improvements
+
+---
+
+## 🅰️ Angular Projects
+
+🔗 **Repository:** https://github.com/Peppino89/Angular_Projects
+
+Collection of Angular applications developed to strengthen my frontend development skills.
+
+Projects are implemented using both:
+
+- Traditional Angular Architecture
+- Angular Signals
+
+Current projects include:
+
+- 📋 Task Manager
+- 💰 Expense Tracker
+- 📝 Notes App
+- 🎬 Movie Watchlist
+
+Each project is fully documented and includes its own README.
+
+---
+
+## 🟢 TaskManager API
+
+🔗 **Repository:** https://github.com/Peppino89/TaskManager
+
+RESTful backend application developed with:
+
+- Node.js
+- Express.js
+- MongoDB
+- JWT Authentication
+- Joi Validation
+- Multer
+- Winston Logging
+
+Designed to explore authentication, REST APIs, security and backend best practices.
+
+---
+
+## 📋 GestoreTask API
+
+🔗 **Repository:** https://github.com/Peppino89/GestoreTask
+
+RESTful backend project developed with:
+
+- Node.js
+- Express.js
+- MongoDB
+- Mongoose
+- Joi Validation
+- Winston
+- Morgan
+
+Focused on modular backend architecture and REST API development.
 
 ---
 
@@ -15,7 +100,8 @@ My primary focus is on **Java**, **Spring Boot**, **Angular** and **React**, and
 - 💻 Passionate about Full Stack Development
 - ☕ Backend Developer specialized in Java & Spring Boot
 - 🅰️ Frontend Developer with Angular & React
-- 🚀 Constantly learning new technologies and best practices
+- 🟢 Backend Developer with Node.js & Express.js
+- 🚀 Constantly learning new technologies and software engineering best practices
 - 🎯 Focused on writing clean, maintainable and scalable code
 - 📚 Strong believer in continuous learning through practical projects
 
@@ -23,30 +109,36 @@ My primary focus is on **Java**, **Spring Boot**, **Angular** and **React**, and
 
 # 🚀 Tech Stack
 
-## Backend
+## ☕ Backend
 
-- ☕ Java
-- 🌱 Spring Boot
-- 🔐 Spring Security
-- 🌐 REST APIs
-- 🟢 Node.js
-- 🚂 Express.js
+- Java
+- Spring Boot
+- Spring Security
+- REST APIs
+- Node.js
+- Express.js
 
-## Frontend
+---
 
-- 🅰️ Angular
-- ⚛️ React
-- ▲ Next.js
-- 📘 TypeScript
-- 🌐 HTML5
-- 🎨 CSS3
+## 🅰️ Frontend
 
-## Databases
+- Angular
+- React
+- Next.js
+- TypeScript
+- HTML5
+- CSS3
 
-- 🐬 MySQL
-- 🍃 MongoDB
+---
 
-## Tools & Technologies
+## 🗄 Databases
+
+- MySQL
+- MongoDB
+
+---
+
+## 🛠 Tools & Technologies
 
 - Git
 - GitHub
@@ -55,6 +147,7 @@ My primary focus is on **Java**, **Spring Boot**, **Angular** and **React**, and
 - Visual Studio Code
 - Postman
 - JWT Authentication
+- Swagger / OpenAPI
 
 ---
 
@@ -62,55 +155,14 @@ My primary focus is on **Java**, **Spring Boot**, **Angular** and **React**, and
 
 During my professional experience I have worked on enterprise projects involving:
 
-- REST API integration
+- REST API Integration
 - API Management with WSO2
-- Java-based backend development
-- Angular frontend development
-- Agile development methodologies
-- Software maintenance and integration
+- Java Backend Development
+- Angular Frontend Development
+- Agile Development Methodologies
+- Software Maintenance and Integration
 
 Alongside my professional experience, I actively develop personal Full Stack applications to continuously improve my technical skills and explore modern software development practices.
-
----
-
-# 📂 Featured Repositories
-
-## ☕ Spring Boot & Angular Projects
-
-Collection of Full Stack applications built using **Spring Boot** and **Angular**.
-
-Current projects include:
-
-- ✅ AppTodo
-- 🚧 BarberBooking *(currently in development)*
-
-Each repository includes:
-
-- Complete documentation
-- Installation guide
-- Project architecture
-- Technologies used
-- Future improvements
-
----
-
-## 🅰️ Angular Projects
-
-Collection of Angular applications developed to strengthen my frontend development skills.
-
-The repository includes projects built using both:
-
-- Traditional Angular architecture
-- Angular Signals
-
-Projects include:
-
-- 📋 Task Manager
-- 💰 Expense Tracker
-- 📝 Notes App
-- 🎬 Movie Watchlist
-
-Each project is fully documented and available in both the classic and Signals implementations.
 
 ---
 
@@ -131,19 +183,9 @@ I'm continuously improving my knowledge in:
 
 # 🎯 Professional Goal
 
-My goal is to contribute to innovative software development teams by building high-quality web applications and continuously expanding my technical expertise.
+My goal is to contribute to innovative software development teams by building high-quality web applications while continuously expanding my technical expertise.
 
 I enjoy learning new technologies, solving real-world problems and developing software that is clean, scalable and maintainable.
-
----
-
-# 📫 Connect With Me
-
-- 💼 LinkedIn  
-  www.linkedin.com/in/giuseppegiordano89
-
-- 💻 GitHub  
-  https://github.com/Peppino89
 
 ---
 
@@ -151,31 +193,59 @@ I enjoy learning new technologies, solving real-world problems and developing so
 
 On my GitHub you'll find:
 
-- ☕ Java & Spring Boot projects
-- 🅰️ Angular applications
-- ⚛️ React projects
-- 🌐 REST API implementations
-- 🔐 Authentication with JWT
-- 📚 Learning projects
-- 🚀 Full Stack applications
+### ☕
+
+- Spring Boot REST APIs
+- Spring Security
+- JWT Authentication
+- MySQL
+- Full Stack Applications
+
+### 🟢
+
+- Node.js APIs
+- Express.js
+- MongoDB
+- Authentication
+- File Upload
+- Logging
+- Validation
+
+### 🅰️
+
+- Angular Applications
+- Angular Signals
+- Standalone Components
+- Route Guards
+- HTTP Interceptors
+- Services
+
+### ⚛️
+
+- React Projects
+- Component-Based Architecture
+- REST API Integration
 
 Every repository is carefully documented and represents a step in my continuous learning journey.
 
 ---
-## 📂 Featured Repositories
 
-### ☕ Spring Boot & Angular Projects
-🔗 https://github.com/Peppino89/Angular_Springboot
+# 📫 Connect With Me
 
-### 🅰️ Angular Projects
-🔗 https://github.com/Peppino89/Angular_Projects
+- 💼 **LinkedIn**
+  
+  https://www.linkedin.com/in/giuseppegiordano89
 
-### ✅ AppTodo
-🔗 https://github.com/Peppino89/Angular_Springboot/tree/main/AppTodo
+- 💻 **GitHub**
 
-### 💈 BarberBooking *(In Progress)*
+  https://github.com/Peppino89
+
+- 📧 **Email**
+
+  giordano816@gmail.com
+
 ---
 
-⭐ Thank you for visiting my GitHub profile!
+⭐ **Thank you for visiting my GitHub profile!**
 
 Feel free to explore my repositories and follow my journey as a Full Stack Developer.
